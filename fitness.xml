@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fitnessClub>
+    <membres>
+        <membre id="1">
+            <nom>Ahmed</nom>
+            <age>22</age>
+            <abonnement>Premium</abonnement>
+            <actif>true</actif>
+        </membre>
+
+        <membre id="2">
+            <nom>Youssef</nom>
+            <age>25</age>
+            <abonnement>Standard</abonnement>
+            <actif>false</actif>
+        </membre>
+
+        <membre id="3">
+            <nom>Amine</nom>
+            <age>20</age>
+            <abonnement>Premium</abonnement>
+            <actif>true</actif>
+        </membre>
+    </membres>
+</fitnessClub>
